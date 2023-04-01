@@ -36,4 +36,5 @@ in this db we use the phone numbers as ids as primary keys since a single accoun
 # How it looks after it's finished :
 - Searching Takes less than Milliseconds 
 ![alt text](https://github.com/minanagehsalalma/FBDB/blob/main/Capture.JPG?raw=true)
+![alt text](https://github.com/minanagehsalalma/FBDB/blob/main/Capture1.JPG?raw=true)
 ![alt text](https://github.com/minanagehsalalma/FBDB/blob/main/337070504_1598488140627904_5328762965454889630_n.jpg?raw=true)
