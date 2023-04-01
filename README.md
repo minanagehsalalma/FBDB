@@ -34,5 +34,6 @@
 in this db we use the phone numbers as ids as primary keys since a single account can have more than one number which would result in user already exists error in mongodb 
 
 # How it looks after it's finished :
+- Searching Takes less than Milliseconds 
 ![alt text](https://github.com/minanagehsalalma/FBDB/blob/main/Capture.JPG?raw=true)
 ![alt text](https://github.com/minanagehsalalma/FBDB/blob/main/337070504_1598488140627904_5328762965454889630_n.jpg?raw=true)
