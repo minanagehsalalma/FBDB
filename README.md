@@ -5,7 +5,7 @@
 * open the terminal in the project folder
 * type `npm i`
 
-# steps to run it
+# Steps to run it
 
 - install [Git Bash](https://git-scm.com/downloads)
 - copy target files into a new folder
@@ -15,16 +15,16 @@
 - open the app.ts and replace the filePaths with the new output files names can be done [using this](https://superuser.com/questions/395836/how-to-copy-a-list-of-file-names-to-text-file)   
 
 
-# final step
+# Final step
 
 * make sure that mongodb compass is running and click connect
 * then type in the terminal `npm run dev` in the project folder where the app.ts file is located 
 
 # To decode the hex encoded strings
 
-#### do this for first time only ####
+#### Do this for first time only ####
 * type `npm install -g ts-node typescript '@types/node'` in a terminal
 
-#### to run the decoding code ####
+#### To run the decoding code ####
 * replace the f1.txt in decode.ts with target file
 * `ts-node decode.ts`
