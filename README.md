@@ -29,3 +29,6 @@
 #### To run the decoding code ####
 * replace the f1.txt in decode.ts with target file
 * `ts-node decode.ts`
+
+# Note :
+in this db we use the phone numbers as ids as primary keys since a single account can have more than one number which would result in user already exists error in mongodb 
